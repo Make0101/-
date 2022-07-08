@@ -1,0 +1,31 @@
+.card0 {
+    position: relative;
+	width: 400px;
+	height: 200px;
+	background-color: #e5e6fa;
+	z-index: -1;
+}
+.card1 {
+	width: 120px;
+	height: 160px;
+	background: linear-gradient(to top, #fffcf7 30%, #87de87 30%);
+	margin: -200px 0 0 10px;
+	z-index: 1;
+}
+.card2 {
+	width: 120px;
+	height: 160px;
+	background: linear-gradient(to top, #fffcf7 30%, #75b5f0 30%);
+	margin: -176px 0 0 140px;
+	z-index: 1;
+}
+.card3 {
+	width: 120px;
+	height: 160px;
+	background: linear-gradient(to top, #fffcf7 30%, #ebe278 30%);
+	margin: -176px 0 0 270px;
+	z-index: 1;
+}
+.txt {
+	padding: 120px 10px;
+}
